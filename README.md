@@ -1,4 +1,4 @@
-## Olá, eu sou Gabriel Alex, software developer, apaixonado por programação e tecnologia!
+## Olá, eu sou Gabriel Alex, desenvolvedor de software, apaixonado por programação e tecnologia!
 
 <br>
 
